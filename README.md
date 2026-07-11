@@ -28,8 +28,8 @@ This project is an end-to-end Machine Learning web application that predicts whe
 Ensure you have Python installed, then clone this project and install the necessary libraries using your terminal:
 
 ```bash
-git clone [https://github.com/AyUsHPaNdeY-101/YOUR_REPO_NAME.git](https://github.com/AyUsHPaNdeY-101/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/AyUsHPaNdeY-101/Loan-prediction.git](https://github.com/AyUsHPaNdeY-101/Loan-prediction.git)
+cd Loan-prediction
 pip install pandas scikit-learn flask joblib
 ```
 
